@@ -1,0 +1,24 @@
+[Icon Theme]
+Name=Aswad
+Comment=A simplistic, minimal icon theme
+
+[mimetypes/scalable]
+Size=128
+Context=MimeTypes
+Type=Scalable
+MinSize=1
+MaxSize=256
+
+[mimetypes/symbolic]
+Size=128
+Context=MimeTypes
+Type=Scalable
+MinSize=1
+MaxSize=256
+
+[places]
+Size=128
+Context=Places
+Type=Scalable
+Minsize=1
+MaxSize=256
